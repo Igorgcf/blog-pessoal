@@ -1,0 +1,21 @@
+{
+	"id": "657969cc-013d-4929-9959-6426f2169623",
+	"name": "Local-host",
+	"values": [
+		{
+			"key": "host",
+			"value": "http://localhost:8080",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-08-20T19:52:32.408Z",
+	"_postman_exported_using": "Postman/11.9.1"
+}
