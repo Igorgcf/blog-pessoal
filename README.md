@@ -52,9 +52,9 @@ git clone https://github.com/IgorTecnologia/blog-pessoal.git
 
 Baixe esses arquivos e importe-os para o seu Postman para utilizar os métodos HTTP prontos junto com as variáveis ​​de ambiente já configuradas, para realizar as solicitações/respostas
 
-[Baixar Coleções](https://github.com/IgorTecnologia/api-movie/blob/docs-postman/api-movie-collection.json)
+[Baixar Coleções](https://github.com/Igorgcf/blog-pessoal/blob/docs-postman/blog-pessoal-collection.json)
 
-[Baixar variáveis de ambiente](https://github.com/IgorTecnologia/api-movie/blob/docs-postman/Local-host-environment.json)
+[Baixar variáveis de ambiente](https://github.com/Igorgcf/blog-pessoal/blob/docs-postman/Local-host-environment.json)
 
 ## API Endpoints
 A API fornece os seguintes endpoints:
